@@ -44,7 +44,3 @@ praticar conceitos basicos de python
 * Lista
 * laços de repetição
 * manipulação de strings
-
-## Futuras mudanças
-
-Criar uma interface gráfica simples (usando Tkinter ou CustomTkinter).
